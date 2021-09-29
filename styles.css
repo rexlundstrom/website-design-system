@@ -1,0 +1,47 @@
+/* fonts */
+
+
+body {
+    background-image: url("Rex.jpg");
+    background-size: 100%;
+    background-color: #ececec;
+    background-position:initial;
+    background-blend-mode: multiply;
+    background-repeat:no-repeat;
+    font-family: 'Catamaran', sans-serif;
+}
+
+h1 {
+    display: inline-block;
+    color: #f3d250;
+    font-size: 50px;
+    padding: 0;
+    margin: 0 auto;
+}
+
+h2 {
+    color: #74d44d;
+    font-size: 40px;
+}
+
+h3 {
+    color: #4db0f1;
+    font-size: 30px;
+}
+
+h4 {
+    color: #457c2f;
+    font-size: 25px;
+}
+
+nav {
+    position: inline-block;
+    font-size: 40px;
+    width: 800px;
+}
+
+p {
+    color: #000000;
+    size: 16px;
+    z-index: 2;
+}
